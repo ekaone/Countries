@@ -6,6 +6,8 @@
 *.lock
 
 coverage
+.eslintcache
+.phpunit.cache
 
 composer.phar
 
